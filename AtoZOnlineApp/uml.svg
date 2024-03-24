@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1092px" preserveAspectRatio="none" style="width:940px;height:1092px;" version="1.1" viewBox="0 0 940 1092" width="940px" zoomAndPan="magnify"><defs><filter height="300%" id="f14k5qfqj4z1vd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#FF0000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="258" x="344.5" y="16.708">FREE PLAN LIMIT EXCEEDED</text><text fill="#FF0000" font-family="sans-serif" font-size="16" lengthAdjust="spacingAndGlyphs" textLength="298" x="324.5" y="35.8047">Some names may have been redacted</text><text fill="#888888" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="312" x="317.5" y="53.5015">Please subscribe to the affordable Pro plan</text><text fill="#888888" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="183" x="382" y="70.9624">to remove this limitation.</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="0" x="475" y="83.7822"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="17" x="328" y="95.4229">The</text><text fill="#888888" font-family="sans-serif" font-size="10" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="174" x="348" y="95.4229">number of classes per diagram</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="94" x="525" y="95.4229">has been exceeded</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="345" x="301" y="107.0635">- The number of your classes per diagram is limited in the free plan to 3</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="424" x="261.5" y="118.7041">- The number of other classes being referred to per diagram in the free plan is unlimited</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="349" x="299" y="130.3447">- The number of files/modules per diagram is limited in the free plan to 4</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="336" x="305.5" y="141.9854">- The number of diagrams you can save is limited in the free plan to 2</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="0" x="475" y="153.626"/><!--MD5=[2febeada7da9ea601c8035c6089cfbc4]
+cluster AtoZOnlineApp.Sadwik--><polygon fill="#FFFFFF" filter="url(#f14k5qfqj4z1vd)" points="22,179.9844,208,179.9844,215,202.2813,542,202.2813,542,1043.9844,22,1043.9844,22,179.9844" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="215" y1="202.2813" y2="202.2813"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="180" x="26" y="194.9795">AtoZOnlineApp.Sadwik</text><!--MD5=[b1fc571d9ce535eacf33e6083273410e]
+class AtoZOnlineApp--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="585.7969" id="AtoZOnlineApp" style="stroke: #A80036; stroke-width: 1.5;" width="130" x="179" y="214.9844"/><ellipse cx="196.25" cy="230.9844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M199.2188,236.625 Q198.6406,236.9219 198,237.0625 Q197.3594,237.2188 196.6563,237.2188 Q194.1563,237.2188 192.8281,235.5781 Q191.5156,233.9219 191.5156,230.7969 Q191.5156,227.6719 192.8281,226.0156 Q194.1563,224.3594 196.6563,224.3594 Q197.3594,224.3594 198,224.5156 Q198.6563,224.6719 199.2188,224.9688 L199.2188,227.6875 Q198.5938,227.1094 198,226.8438 Q197.4063,226.5625 196.7813,226.5625 Q195.4375,226.5625 194.75,227.6406 Q194.0625,228.7031 194.0625,230.7969 Q194.0625,232.8906 194.75,233.9688 Q195.4375,235.0313 196.7813,235.0313 Q197.4063,235.0313 198,234.7656 Q198.5938,234.4844 199.2188,233.9063 L199.2188,236.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="93" x="210.75" y="235.1387">AtoZOnlineApp</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="180" x2="308" y1="246.9844" y2="246.9844"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="104" x="185" y="261.1948">ADMIN_PASSWORD</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="185" y="273.9995">addMoreItems</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="185" y="286.8042">address</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="73" x="185" y="299.6089">adminChoice</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="49" x="185" y="312.4136">category</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="185" y="325.2183">choice</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68" x="185" y="338.0229">currentUser</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="31" x="185" y="350.8276">email</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="20" x="185" y="363.6323">exit</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="185" y="376.437">hotelItems</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="25" x="185" y="389.2417">item</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="58" x="185" y="402.0464">itemName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="53" x="185" y="414.8511">itemPrice</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="185" y="427.6558">itemPrices</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="32" x="185" y="440.4604">items</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="185" y="453.2651">logger</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83" x="185" y="466.0698">mobileNumber</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="32" x="185" y="478.8745">name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="74" x="185" y="491.6792">newCategory</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="51" x="185" y="504.4839">newPrice</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="31" x="185" y="517.2886">order</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="185" y="530.0933">password</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="185" y="542.8979">paymentMethod</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="107" x="185" y="555.7026">paymentMethodStr</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="46" x="185" y="568.5073">pinCode</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="185" y="581.312">quantity</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="185" y="594.1167">registeredUsers</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="46" x="185" y="606.9214">scanner</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99" x="185" y="619.7261">selectedCategory</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="180" x2="308" y1="626.3203" y2="626.3203"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="80" x="185" y="640.5308">addCategory()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="185" y="653.3354">addItem()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="73" x="185" y="666.1401">adminMenu()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="185" y="678.9448">doBilling()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="118" x="185" y="691.7495">exploreHotelDetails()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="91" x="185" y="704.5542">isValidPinCode()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="74" x="185" y="717.3589">logPayment()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="185" y="730.1636">logRegistration()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="185" y="742.9683">login()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="185" y="755.7729">main()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="53" x="185" y="768.5776">register()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="76" x="185" y="781.3823">removeItem()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="185" y="794.187">updateItemPrice()</text><!--MD5=[c692f8cfb8eaa2afcfd9e373e66f44a3]
+class ItemRecord--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="124.8281" id="ItemRecord" style="stroke: #A80036; stroke-width: 1.5;" width="112" x="414" y="445.4844"/><ellipse cx="433.05" cy="461.4844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M436.0188,467.125 Q435.4406,467.4219 434.8,467.5625 Q434.1594,467.7188 433.4563,467.7188 Q430.9563,467.7188 429.6281,466.0781 Q428.3156,464.4219 428.3156,461.2969 Q428.3156,458.1719 429.6281,456.5156 Q430.9563,454.8594 433.4563,454.8594 Q434.1594,454.8594 434.8,455.0156 Q435.4563,455.1719 436.0188,455.4688 L436.0188,458.1875 Q435.3938,457.6094 434.8,457.3438 Q434.2063,457.0625 433.5813,457.0625 Q432.2375,457.0625 431.55,458.1406 Q430.8625,459.2031 430.8625,461.2969 Q430.8625,463.3906 431.55,464.4688 Q432.2375,465.5313 433.5813,465.5313 Q434.2063,465.5313 434.8,465.2656 Q435.3938,464.9844 436.0188,464.4063 L436.0188,467.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="71" x="447.95" y="465.6387">ItemRecord</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="415" x2="525" y1="477.4844" y2="477.4844"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="420" y="491.6948">categoryItems</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="71" x="420" y="504.4995">itemRecords</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="415" x2="525" y1="511.0938" y2="511.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="420" y="525.3042">addItem()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="97" x="420" y="538.1089">getItemRecords()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="76" x="420" y="550.9136">removeItem()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="420" y="563.7183">updateItemPrice()</text><!--MD5=[cf4d6237fcae255cd2e1656cf84a30e2]
+class Order--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="150.4375" id="Order" style="stroke: #A80036; stroke-width: 1.5;" width="124" x="72" y="877.9844"/><ellipse cx="112.65" cy="893.9844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M115.6188,899.625 Q115.0406,899.9219 114.4,900.0625 Q113.7594,900.2188 113.0563,900.2188 Q110.5563,900.2188 109.2281,898.5781 Q107.9156,896.9219 107.9156,893.7969 Q107.9156,890.6719 109.2281,889.0156 Q110.5563,887.3594 113.0563,887.3594 Q113.7594,887.3594 114.4,887.5156 Q115.0563,887.6719 115.6188,887.9688 L115.6188,890.6875 Q114.9938,890.1094 114.4,889.8438 Q113.8063,889.5625 113.1813,889.5625 Q111.8375,889.5625 111.15,890.6406 Q110.4625,891.7031 110.4625,893.7969 Q110.4625,895.8906 111.15,896.9688 Q111.8375,898.0313 113.1813,898.0313 Q113.8063,898.0313 114.4,897.7656 Q114.9938,897.4844 115.6188,896.9063 L115.6188,899.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="35" x="132.35" y="898.1387">Order</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="73" x2="195" y1="909.9844" y2="909.9844"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="58" x="78" y="924.1948">itemName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="78" y="936.9995">itemPrices</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="32" x="78" y="949.8042">items</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="28" x="78" y="962.6089">price</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="51" x="78" y="975.4136">totalCost</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="73" x2="195" y1="982.0078" y2="982.0078"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="78" y="996.2183">addItem()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="78" y="1009.0229">calculateTotalCost()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="78" y="1021.8276">displayOrder()</text><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="150.4375" id="User" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="38.5" y="432.9844"/><ellipse cx="73.3" cy="448.9844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M76.2688,454.625 Q75.6906,454.9219 75.05,455.0625 Q74.4094,455.2188 73.7063,455.2188 Q71.2063,455.2188 69.8781,453.5781 Q68.5656,451.9219 68.5656,448.7969 Q68.5656,445.6719 69.8781,444.0156 Q71.2063,442.3594 73.7063,442.3594 Q74.4094,442.3594 75.05,442.5156 Q75.7063,442.6719 76.2688,442.9688 L76.2688,445.6875 Q75.6438,445.1094 75.05,444.8438 Q74.4563,444.5625 73.8313,444.5625 Q72.4875,444.5625 71.8,445.6406 Q71.1125,446.7031 71.1125,448.7969 Q71.1125,450.8906 71.8,451.9688 Q72.4875,453.0313 73.8313,453.0313 Q74.4563,453.0313 75.05,452.7656 Q75.6438,452.4844 76.2688,451.9063 L76.2688,454.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29" x="91.7" y="453.1387">User</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="142.5" y1="464.9844" y2="464.9844"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85" x="44.5" y="479.1948">upgrade to pro</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85" x="44.5" y="491.9995">upgrade to pro</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85" x="44.5" y="504.8042">upgrade to pro</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85" x="44.5" y="517.6089">upgrade to pro</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="142.5" y1="524.2031" y2="524.2031"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="44.5" y="538.4136">upgrade to pro()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="44.5" y="551.2183">upgrade to pro()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="44.5" y="564.0229">upgrade to pro()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="44.5" y="576.8276">upgrade to pro()</text><!--MD5=[d5f1be826c69ca1567a5e96185ac7827]
+class Scanner--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="32" id="Scanner" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="558" y="936.9844"/><ellipse cx="573" cy="952.9844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M575.9688,958.625 Q575.3906,958.9219 574.75,959.0625 Q574.1094,959.2188 573.4063,959.2188 Q570.9063,959.2188 569.5781,957.5781 Q568.2656,955.9219 568.2656,952.7969 Q568.2656,949.6719 569.5781,948.0156 Q570.9063,946.3594 573.4063,946.3594 Q574.1094,946.3594 574.75,946.5156 Q575.4063,946.6719 575.9688,946.9688 L575.9688,949.6875 Q575.3438,949.1094 574.75,948.8438 Q574.1563,948.5625 573.5313,948.5625 Q572.1875,948.5625 571.5,949.6406 Q570.8125,950.7031 570.8125,952.7969 Q570.8125,954.8906 571.5,955.9688 Q572.1875,957.0313 573.5313,957.0313 Q574.1563,957.0313 574.75,956.7656 Q575.3438,956.4844 575.9688,955.9063 L575.9688,958.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="52" x="587" y="957.1387">Scanner</text><!--MD5=[702f122c79729df12a8a52022932f992]
+class HashMap--><rect fill="#FEFECE" filter="url(#f14k5qfqj4z1vd)" height="32" id="HashMap" style="stroke: #A80036; stroke-width: 1.5;" width="90" x="677" y="936.9844"/><ellipse cx="692" cy="952.9844" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M694.9688,958.625 Q694.3906,958.9219 693.75,959.0625 Q693.1094,959.2188 692.4063,959.2188 Q689.9063,959.2188 688.5781,957.5781 Q687.2656,955.9219 687.2656,952.7969 Q687.2656,949.6719 688.5781,948.0156 Q689.9063,946.3594 692.4063,946.3594 Q693.1094,946.3594 693.75,946.5156 Q694.4063,946.6719 694.9688,946.9688 L694.9688,949.6875 Q694.3438,949.1094 693.75,948.8438 Q693.1563,948.5625 692.5313,948.5625 Q691.1875,948.5625 690.5,949.6406 Q689.8125,950.7031 689.8125,952.7969 Q689.8125,954.8906 690.5,955.9688 Q691.1875,957.0313 692.5313,957.0313 Q693.1563,957.0313 693.75,956.7656 Q694.3438,956.4844 694.9688,955.9063 L694.9688,958.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="58" x="706" y="957.1387">HashMap</text><!--MD5=[f7b45dedf3ce92dc505b2a3f62cb3c30]
+link AtoZOnlineApp to Scanner--><path d="M176.3413,677.9574 C176.3413,677.9574 165.78,802.9144 207,847.9844 C257.44,903.1444 476.32,842.3044 542,877.9844 C561.32,888.4744 576.36,908.4144 586.28,924.9444 " fill="none" id="AtoZOnlineApp-Scanner" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="592.86,936.7144,591.9639,926.9064,590.422,932.349,584.9793,930.8072,592.86,936.7144" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="590.422" x2="586.515" y1="932.349" y2="925.3644"/><polygon fill="#A80036" points="178.95,666.2444,173.7413,671.2313,176.3413,677.9574,181.55,672.9705,178.95,666.2444" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="51" x="208" y="844.0513">scanner</text><!--MD5=[0178d63a3e0b19e6a9f7333aa66a5d18]
+link AtoZOnlineApp to AtoZOnlineApp--><path d="M320.7868,450.0312 C320.7868,450.0312 344,477.5744 344,507.9844 C344,538.3944 334.94,557.5944 321.84,565.5844 " fill="none" id="AtoZOnlineApp-AtoZOnlineApp" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="309.4,569.7244,319.2024,570.6799,314.1445,568.1465,316.6779,563.0887,309.4,569.7244" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="314.1445" x2="321.735" y1="568.1465" y2="565.6194"/><polygon fill="#A80036" points="309.4,446.2444,313.8311,451.9334,320.7868,450.0312,316.3557,444.3422,309.4,446.2444" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="40" x="350" y="512.5513">logger</text><!--MD5=[b6287f4f82486b3b2dd323adc9f3efc0]
+link AtoZOnlineApp to HashMap--><path d="M269.9568,811.342 C269.9568,811.342 288.56,837.4244 300,847.9844 C358.84,902.2744 587.79,841.4144 659,877.9844 C679.53,888.5244 696.11,908.9344 707.1,925.6544 " fill="none" id="AtoZOnlineApp-HashMap" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="714.09,936.9744,712.7643,927.2151,711.4628,932.7202,705.9577,931.4187,714.09,936.9744" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="711.4628" x2="707.26" y1="932.7202" y2="925.9144"/><polygon fill="#A80036" points="263.88,800.9944,263.4692,808.1938,269.9568,811.342,270.3676,804.1426,263.88,800.9944" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="102" x="301" y="844.0513">registeredUsers</text><!--MD5=[b6287f4f82486b3b2dd323adc9f3efc0]
+link AtoZOnlineApp to HashMap--><path d="M314.8003,712.4602 C314.8003,712.4602 387.46,820.2044 444,847.9844 C530.59,890.5344 574.43,831.5544 659,877.9844 C679.11,889.0244 695.64,909.2244 706.71,925.7244 " fill="none" id="AtoZOnlineApp-HashMap-1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="713.78,936.9044,712.3498,927.1599,711.1074,932.6786,705.5886,931.4361,713.78,936.9044" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="711.1074" x2="706.83" y1="932.6786" y2="925.9194"/><polygon fill="#A80036" points="309.13,701.8844,308.4399,709.0624,314.8003,712.4602,315.4904,705.2822,309.13,701.8844" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="68" x="445" y="844.0513">hotelItems</text><!--MD5=[b6287f4f82486b3b2dd323adc9f3efc0]
+link AtoZOnlineApp to HashMap--><path d="M314.9811,702.5524 C314.9811,702.5524 363.11,775.1444 396,800.9844 C439.91,835.4844 465.38,812.3044 518,830.9844 C534.67,836.9044 537.44,841.7544 554,847.9844 C599.43,865.0744 618.19,851.7144 659,877.9844 C678.07,890.2544 694.47,910.0344 705.76,926.0544 " fill="none" id="AtoZOnlineApp-HashMap-2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="713.04,936.9044,711.3433,927.2028,710.2526,932.7535,704.7019,931.6627,713.04,936.9044" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="710.2526" x2="705.795" y1="932.7535" y2="926.1094"/><polygon fill="#A80036" points="309.15,692.0644,308.5695,699.2521,314.9811,702.5524,315.5615,695.3647,309.15,692.0644" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="68" x="555" y="844.0513">hotelItems</text><!--MD5=[b6287f4f82486b3b2dd323adc9f3efc0]
+link AtoZOnlineApp to HashMap--><path d="M315.025,709.1811 C315.025,709.1811 362.92,777.8744 396,800.9844 C481.24,860.5244 537.75,779.3744 628,830.9844 C665.85,852.6244 693.76,896.1544 708.95,924.6744 " fill="none" id="AtoZOnlineApp-HashMap-3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="715.02,936.5844,714.4857,926.75,712.7444,932.1322,707.3623,930.3909,715.02,936.5844" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="712.7444" x2="709.12" y1="932.1322" y2="925.0044"/><polygon fill="#A80036" points="309.05,698.7744,308.5686,705.9694,315.025,709.1811,315.5064,701.9861,309.05,698.7744" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="653" y="844.0513">itemPrices</text><!--MD5=[b5eede0ba3f56a07241dec1cefefde77]
+link AtoZOnlineApp to Order--><path d="M173.6057,777.6926 C173.6057,777.6926 165.25,793.7444 161,800.9844 C151.45,817.2444 138.22,813.5644 131,830.9844 C126.62,841.5644 124.24,853.1244 123.2,864.7644 " fill="none" id="AtoZOnlineApp-Order" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="122.58,877.8944,127.0105,869.0983,122.8217,872.9002,119.0198,868.7115,122.58,877.8944" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="122.8217" x2="123.195" y1="872.9002" y2="864.9044"/><polygon fill="#A80036" points="178.84,766.8944,172.6234,770.5487,173.6057,777.6926,179.8223,774.0383,178.84,766.8944" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="34" x="132" y="844.0513">order</text><!--MD5=[c25ccbdeacae1705123fa7310d1de10e]
+link ItemRecord to HashMap--><path d="M535.2565,562.4556 C535.2565,562.4556 697.22,720.6844 737,830.9844 C748.09,861.7344 740.34,899.4044 732.45,924.4644 " fill="none" id="ItemRecord-HashMap" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="728.17,936.9644,734.8712,929.7468,729.7906,932.2343,727.3031,927.1537,728.17,936.9644" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="729.7906" x2="732.385" y1="932.2343" y2="924.6694"/><polygon fill="#A80036" points="526.26,554.5144,528.1112,561.4838,535.2565,562.4556,533.4053,555.4861,526.26,554.5144" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="80" x="742" y="844.0513">itemRecords</text><!--MD5=[c25ccbdeacae1705123fa7310d1de10e]
+link ItemRecord to HashMap--><path d="M536.741,544.5692 C536.741,544.5692 770.94,696.9444 831,830.9844 C849.33,871.9044 803.12,908.5644 765.3,930.5344 " fill="none" id="ItemRecord-HashMap-1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="753.91,936.8744,763.7197,935.9971,758.28,934.4448,759.8323,929.0051,753.91,936.8744" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="758.28" x2="765.27" y1="934.4448" y2="930.5494"/><polygon fill="#A80036" points="526.34,538.5844,529.5456,545.0438,536.741,544.5692,533.5355,538.1098,526.34,538.5844" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="836" y="844.0513">categoryItems</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="188" x="379.5" y="1079.2666">Generated by GitUml www.gituml.com</text><!--MD5=[6076d193186b8f3f7ac37451f4eb90f7]
+@startuml
+package AtoZOnlineApp.Sadwik {
+    class AtoZOnlineApp {
+        ADMIN_PASSWORD
+        addMoreItems
+        address
+        adminChoice
+        category
+        choice
+        currentUser
+        email
+        exit
+        hotelItems
+        item
+        itemName
+        itemPrice
+        itemPrices
+        items
+        logger
+        mobileNumber
+        name
+        newCategory
+        newPrice
+        order
+        password
+        paymentMethod
+        paymentMethodStr
+        pinCode
+        quantity
+        registeredUsers
+        scanner
+        selectedCategory
+        addCategory()
+        addItem()
+        adminMenu()
+        doBilling()
+        exploreHotelDetails()
+        isValidPinCode()
+        logPayment()
+        logRegistration()
+        login()
+        main()
+        register()
+        removeItem()
+        updateItemPrice()
+    }
+    
+    
+    center header
+    <size:18><font color=red>FREE PLAN LIMIT EXCEEDED</font>
+    <size:16><font color=red>Some names may have been redacted</font>
+    <size:15>Please subscribe to the affordable Pro plan 
+    <size:15>to remove this limitation.
+    
+    The <b>number of classes per diagram</b> has been exceeded
+     - The number of your classes per diagram is limited in the free plan to 3
+     - The number of other classes being referred to per diagram in the free plan is unlimited
+     - The number of files/modules per diagram is limited in the free plan to 4
+     - The number of diagrams you can save is limited in the free plan to 2
+    
+    endheader
+    class ItemRecord {
+        categoryItems
+        itemRecords
+        addItem()
+        getItemRecords()
+        removeItem()
+        updateItemPrice()
+    }
+    
+    
+    center header
+    <size:18><font color=red>FREE PLAN LIMIT EXCEEDED</font>
+    <size:16><font color=red>Some names may have been redacted</font>
+    <size:15>Please subscribe to the affordable Pro plan 
+    <size:15>to remove this limitation.
+    
+    The <b>number of classes per diagram</b> has been exceeded
+     - The number of your classes per diagram is limited in the free plan to 3
+     - The number of other classes being referred to per diagram in the free plan is unlimited
+     - The number of files/modules per diagram is limited in the free plan to 4
+     - The number of diagrams you can save is limited in the free plan to 2
+    
+    endheader
+    class Order {
+        itemName
+        itemPrices
+        items
+        price
+        totalCost
+        addItem()
+        calculateTotalCost()
+        displayOrder()
+    }
+    
+    
+    center header
+    <size:18><font color=red>FREE PLAN LIMIT EXCEEDED</font>
+    <size:16><font color=red>Some names may have been redacted</font>
+    <size:15>Please subscribe to the affordable Pro plan 
+    <size:15>to remove this limitation.
+    
+    The <b>number of classes per diagram</b> has been exceeded
+     - The number of your classes per diagram is limited in the free plan to 3
+     - The number of other classes being referred to per diagram in the free plan is unlimited
+     - The number of files/modules per diagram is limited in the free plan to 4
+     - The number of diagrams you can save is limited in the free plan to 2
+    
+    endheader
+    class User {
+        upgrade to pro
+        upgrade to pro
+        upgrade to pro
+        upgrade to pro
+        upgrade to pro()
+        upgrade to pro()
+        upgrade to pro()
+        upgrade to pro()
+    }
+    
+    
+    center header
+    <size:18><font color=red>FREE PLAN LIMIT EXCEEDED</font>
+    <size:16><font color=red>Some names may have been redacted</font>
+    <size:15>Please subscribe to the affordable Pro plan 
+    <size:15>to remove this limitation.
+    
+    The <b>number of classes per diagram</b> has been exceeded
+     - The number of your classes per diagram is limited in the free plan to 3
+     - The number of other classes being referred to per diagram in the free plan is unlimited
+     - The number of files/modules per diagram is limited in the free plan to 4
+     - The number of diagrams you can save is limited in the free plan to 2
+    
+    endheader
+}
+
+AtoZOnlineApp *- -> Scanner : scanner
+AtoZOnlineApp *- -> AtoZOnlineApp : logger
+AtoZOnlineApp *- -> HashMap : registeredUsers
+AtoZOnlineApp *- -> HashMap : hotelItems
+AtoZOnlineApp *- -> HashMap : hotelItems
+AtoZOnlineApp *- -> HashMap : itemPrices
+AtoZOnlineApp *- -> Order : order
+ItemRecord *- -> HashMap : itemRecords
+ItemRecord *- -> HashMap : categoryItems
+center footer Generated by GitUml www.gituml.com
+hide empty members
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 14:08:22 UTC 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_402-heroku-b06
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
